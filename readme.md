@@ -9,9 +9,9 @@ I'm always on the lookout for new challenges that allow me to create and learn s
 
 * 🌱 I’m now learning **React.js and Redux**
 
-* 🔥 My graphic portfolio is [eloii.cz](eloii.cz)
+* 🔥 My graphic portfolio is [https://eloii.cz](eloii.cz)
 
-* 📄 Know about my experiences [linkedin.com/in/barborahanfova](linkedin.com/in/barborahanfova)
+* 📄 Know about my experiences [linkedin.com/in/barborahanfova](https://linkedin.com/in/barborahanfova)
 
 * ⚡ If you have hours of time, ask me about **Harry Potter stuff**
 
